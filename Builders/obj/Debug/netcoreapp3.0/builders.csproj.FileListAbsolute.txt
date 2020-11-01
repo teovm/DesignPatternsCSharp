@@ -1,0 +1,11 @@
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\bin\Debug\netcoreapp3.0\builders.exe
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\bin\Debug\netcoreapp3.0\builders.deps.json
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\bin\Debug\netcoreapp3.0\builders.runtimeconfig.json
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\bin\Debug\netcoreapp3.0\builders.runtimeconfig.dev.json
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\bin\Debug\netcoreapp3.0\builders.dll
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\bin\Debug\netcoreapp3.0\builders.pdb
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\obj\Debug\netcoreapp3.0\builders.csprojAssemblyReference.cache
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\obj\Debug\netcoreapp3.0\builders.AssemblyInfoInputs.cache
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\obj\Debug\netcoreapp3.0\builders.AssemblyInfo.cs
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\obj\Debug\netcoreapp3.0\builders.dll
+X:\Udemy\Design patterns with C# and .NET\Ejercicios\Builders\obj\Debug\netcoreapp3.0\builders.pdb
